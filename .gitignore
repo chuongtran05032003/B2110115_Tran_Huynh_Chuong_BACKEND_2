@@ -129,6 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-#
+#Không theo dõi các file này trong Git
 api.rest
-eslint.config.mjs
